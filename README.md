@@ -8,14 +8,8 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
@@ -31,8 +25,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL ](https://www.frontendmentor.io/solutions/profilecardcomponent-RhFcwdZLk_)
+- Live Site URL: [ live site URL ]( https://iceberg61.github.io/Profile-card-component/)
+
 
 ### Built with
 
@@ -47,5 +42,5 @@ the before and after pseudo classes.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@iceberg61](https://www.frontendmentor.io/profile/iceberg61)
 - Twitter - [@ayanakoji-kiyo](https://www.twitter.com/ayanakoji-kiyo)
